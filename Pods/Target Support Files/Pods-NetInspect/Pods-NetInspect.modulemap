@@ -1,0 +1,6 @@
+framework module Pods_NetInspect {
+  umbrella header "Pods-NetInspect-umbrella.h"
+
+  export *
+  module * { export * }
+}
